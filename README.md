@@ -69,13 +69,34 @@ The business invests most heavily in YouTube (1.35M) and Instagram (1.31M), whic
 
 ---
 
+## 📂 Repository Structure
+
+```
+pizza-shop-analysis/
+│
+├── README.md                        ← Project documentation
+├── pizza_shop_queries.sql           ← All 24 SQL queries
+├── dashboard_screenshot.png         ← Dashboard preview image
+├── pizza_shop_dashboard.pbix        ← Interactive Power BI file
+│
+└── data/
+    ├── top_products_revenue.csv
+    ├── roi_by_branch.csv
+    ├── delivery_performance.csv
+    ├── employee_by_department.csv
+    ├── support_response_time.csv
+    └── campaign_spend_efficiency.csv
+```
+
+---
+
 ## 🧠 SQL Concepts Used
 
 `JOIN` `LEFT JOIN` `GROUP BY` `ORDER BY` `CASE WHEN` `CTE (WITH)` `Window Functions` `RANK()` `DENSE_RANK()` `TIMESTAMPDIFF()` `DATEDIFF()` `ROUND()` `Subqueries` `Aggregate Functions`
 
 ---
 
-## 📬 Connect with Me
+## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yuvan-shankar-j)
-- 📁 [My Portfolio on GitHub](https://github.com/yuvan-1411)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvan-shankar-j)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
